@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/08/23 14:11:08.000.404,=C:\Users\edu02\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/09/19 19:35:27.000.668,=C:\Users\edu02\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/26 19:38:50.000.385,=C:\Users\edu02\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/11/05 12:42:31.423,=C:\Users\edu02\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/11/05 12:50:49.773,C:\Users\edu02\OneDrive\Documentos\Embarcadero\Studio\Projects\exemplo_multiView\Unit1.fmx=C:\Users\edu02\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2018/11/05 12:50:49.773,C:\Users\edu02\OneDrive\Documentos\Embarcadero\Studio\Projects\exemplo_multiView\Unit1.pas=C:\Users\edu02\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/11/05 12:50:51.034,C:\Users\edu02\OneDrive\Documentos\Embarcadero\Studio\Projects\exemplo_multiView\Project1.dproj=C:\Users\edu02\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/11/05 12:52:52.440,C:\Users\edu02\OneDrive\Documentos\Embarcadero\Studio\Projects\exemplo_multiView\MultiView.dproj=C:\Users\edu02\OneDrive\Documentos\Embarcadero\Studio\Projects\exemplo_multiView\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
